@@ -11,6 +11,6 @@ Audits for the everclear protocol.
 - Auditor: [Creed](https://thecreed.xyz)
 
 
-### [Swaps November 2024](<reports/[CREED]%20Everclear%20Swaps%20September%202025%20(revised).pdf>)
+### [Swaps November 2024](<reports/[CREED]%20Everclear%20Swaps%20September%202025%20.pdf>)
 
 - Auditor: [Creed](https://thecreed.xyz)
